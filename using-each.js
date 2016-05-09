@@ -134,7 +134,7 @@ each(myNumbers, function(value, index) {
 
 
 // EXERCISE with arrays:
-// Write out the first three steps outlined above (on lines 80-87) at least
+// Write out the first three steps outlined above (on lines 86-100) at least
 // five times below. Then, go back and write the body of all of your callback
 // functions, doing something different every time.
 // You can use the arrays given so far, or you can create your own!
@@ -232,7 +232,7 @@ each(boston, function(value, key) {
 
 
 // EXERCISE with objects:
-// Write out the first three steps outlined above (on lines 80-87) at least
+// Write out the first three steps outlined above (on lines 179-193) at least
 // five times below. Then, go back and write the body of all of your callback
 // functions, doing something different every time.
 // You can use the boston object given so far, or you can create your own!
