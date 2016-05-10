@@ -266,7 +266,7 @@ var movies = [
     genre: 'Comedy',
     year: 2007,
     rated: 'R'
-  },
+  }
 ];
 
 
